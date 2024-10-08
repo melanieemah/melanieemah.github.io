@@ -15,5 +15,5 @@ permalink: /contact/
 
 [mel-calendly]: https://calendly.com/mel-mah
 [mel-linkedin]: https://linkedin.com/in/melanie-mah
-[mel-email]:   mailto:pantry-c@duck.com
+[mel-email]:   mailto:gem-carving-mossy@duck.com
 [mel-yt]: https://www.youtube.com/watch?v=dQw4w9WgXcQ

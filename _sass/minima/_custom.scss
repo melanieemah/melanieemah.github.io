@@ -26,6 +26,15 @@ $postlink-font-family: “Courier” !default;
     display: table;
     line-height: 4px;
 }
+
+.site-title::before {
+    content: url("../images/cute-watermelon.png");
+    display: inline-block;
+    position: relative;
+    width: 35px;
+    top: 5px;
+}
+
 /* import the theme css
 @import "minima"; */
 

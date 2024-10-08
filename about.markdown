@@ -25,3 +25,4 @@ Note to future self:
 \
 \
 Website Theme: [Jekyll minima](https://github.com/jekyll/minima)
+Favicon: <a href="https://www.flaticon.com/free-icons/letter-m" title="letter m icons">Letter m icons created by Laisa Islam Ani - Flaticon</a>

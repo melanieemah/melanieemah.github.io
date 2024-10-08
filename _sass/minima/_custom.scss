@@ -27,13 +27,15 @@ $postlink-font-family: “Courier” !default;
     line-height: 4px;
 }
 
-.site-title::before {
+/*
+.site-title::after {
     content: url("../images/cute-watermelon.png");
     display: inline-block;
     position: relative;
-    width: 35px;
+    width: 5px;
     top: 5px;
 }
+*/
 
 /* import the theme css
 @import "minima"; */

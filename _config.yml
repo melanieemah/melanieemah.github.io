@@ -30,7 +30,8 @@ email_username:
 
 # Build settings
 theme: minima
-#plugins:
+plugins:
+  - jekyll-seo-tag
   #- jekyll-feed
 
 # Exclude from processing.

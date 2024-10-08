@@ -216,6 +216,10 @@ For reference, in the Minima theme gem folder, these are in /_sass/minima.scss
 /*$base-font-weight: 400 !default;*/
 .right { display: table; line-height: 4px; }
 
+/*
+.site-title::after { content: url("../images/cute-watermelon.png"); display: inline-block; position: relative; width: 5px; top: 5px;
+}
+*/
 /* import the theme css
 @import "minima"; */
 /* FYI: unrelated to the font-face customisation, make any other css overrides here. eg: */

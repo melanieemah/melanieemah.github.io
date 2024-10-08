@@ -1,8 +1,9 @@
+@charset "UTF-8";
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
-body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
+body { font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Courier"; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; display: flex; min-height: 100vh; flex-direction: column; }
 
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 15px; }
@@ -11,12 +12,12 @@ h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { mar
 main { display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */ }
 
 /** Images */
-img { max-width: 100%; vertical-align: middle; }
+img { max-width: 100%; display: inline-block; vertical-align: middle; }
 
 /** Figures */
-figure > img { display: block; }
+figure { display: table; }
 
-figcaption { font-size: 14px; }
+figcaption { font-size: 14px; text-align: center; display: table-caption; caption-side: bottom; }
 
 /** Lists */
 ul, ol { margin-left: 30px; }
@@ -36,6 +37,10 @@ a:hover { color: #111; text-decoration: underline; }
 /** Blockquotes */
 blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
 blockquote > :last-child { margin-bottom: 0; }
+
+blockquote p { font-size: 24px; }
+
+blockquote span { font-size: 20px; font-style: normal; /**float:inline-end; */ }
 
 /** Code formatting */
 pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
@@ -60,7 +65,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Tables */
 table { margin-bottom: 30px; width: 100%; text-align: left; color: #3f3f3f; border-collapse: collapse; border: 1px solid #e8e8e8; }
 table tr:nth-child(even) { background-color: #f7f7f7; }
-table th, table td { padding: 10px 15px; }
+table th, table td { padding: 9.999999999px 15px; }
 table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
 table td { border: 1px solid #e8e8e8; }
 
@@ -81,7 +86,7 @@ table td { border: 1px solid #e8e8e8; }
   .site-nav .menu-icon > svg { fill: #424242; }
   .site-nav input ~ .trigger { clear: both; display: none; }
   .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; }
-  .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; }
+  .site-nav .page-link { display: block; margin-left: 20px; padding: 5px 10px; }
   .site-nav .page-link:not(:last-child) { margin-right: 0; } }
 
 /** Site footer */
@@ -194,3 +199,30 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vg { color: #008080; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
+
+/* Add your @font-face setting the url path */
+@font-face { font-family: "Courier"; src: url("../fonts/Courier New.ttf") format(‘truetype’); }
+/* src: url("…/assets/fonts/OpenSans-Regular-webfont.eot"); */
+/* src: url("…/assets/fonts/OpenSans-Regular-webfont.eot?#iefix") format(‘embedded-opentype’),  */
+/* url("…/assets/fonts/OpenSans-Regular-webfont.woff") format(‘woff’),  */
+/* url("…/assets/fonts/OpenSans-Regular-webfont.svg#glyphicons-halflingsregular’") format(‘svg’);  */
+/*
+Set the sass variables. You only need the $base-font-family here but in case you want to adjust sizes etc…
+For reference, in the Minima theme gem folder, these are in /_sass/minima.scss
+*/
+.post-link { font-family: "Courier"; }
+
+/*$base-font-size: 16px !default;*/
+/*$base-font-weight: 400 !default;*/
+.right { display: table; line-height: 4px; }
+
+/* import the theme css
+@import "minima"; */
+/* FYI: unrelated to the font-face customisation, make any other css overrides here. eg: */
+/* body {
+color: rgb(88, 60, 153);
+}
+
+.site-header {
+border-top:none;
+} */

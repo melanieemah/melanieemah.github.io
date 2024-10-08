@@ -1,0 +1,39 @@
+
+/* Add your @font-face setting the url path */
+@font-face {
+    font-family:"Courier";
+    src: url("../fonts/Courier New.ttf") format(‘truetype’);
+}
+/* src: url("…/assets/fonts/OpenSans-Regular-webfont.eot"); */
+/* src: url("…/assets/fonts/OpenSans-Regular-webfont.eot?#iefix") format(‘embedded-opentype’),  */
+/* url("…/assets/fonts/OpenSans-Regular-webfont.woff") format(‘woff’),  */
+/* url("…/assets/fonts/OpenSans-Regular-webfont.svg#glyphicons-halflingsregular’") format(‘svg’);  */
+
+
+/*
+Set the sass variables. You only need the $base-font-family here but in case you want to adjust sizes etc…
+For reference, in the Minima theme gem folder, these are in /_sass/minima.scss
+*/
+$postlink-font-family: “Courier” !default;
+
+
+ .post-link {
+    font-family: $postlink-font-family;}
+/*$base-font-size: 16px !default;*/
+/*$base-font-weight: 400 !default;*/
+
+.right {
+    display: table;
+    line-height: 4px;
+}
+/* import the theme css
+@import "minima"; */
+
+/* FYI: unrelated to the font-face customisation, make any other css overrides here. eg: */
+/* body {
+color: rgb(88, 60, 153);
+}
+
+.site-header {
+border-top:none;
+} */

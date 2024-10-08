@@ -19,11 +19,11 @@ As for you...I'm not sure how you landed here. Did you Google me?! &#128064;
 <br>
 
 
-|Let's Chat!|
+|[Let's Chat!][mel-calendly]|
 |     :---:      |
 | [<img src="/images/face-laugh-beam-regular.svg" alt="My Calendly" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-calendly]|
 
-| LinkedIn | Email | YouTube |
+| [LinkedIn][mel-linkedin] | [Email][mel-email] | [YouTube][mel-yt] |
 | :---:         |     :---:      |          :---: |
 |[<img src="/images/linkedin-brands-solid.svg" alt="My LinkedIn" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-linkedin]   | [<img src="/images/envelope-solid.svg" alt="My Email" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-email]| [<img src="/images/youtube-brands-solid.svg" alt="YouTube video" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-yt]  |
 | | ||

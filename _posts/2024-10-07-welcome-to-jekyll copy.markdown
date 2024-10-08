@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Welcome, Internet Stranger*!"
+date:   2024-10-07 19:02:25 -0400
+categories: daily
+---
+
+On October 7, I create this website out of pure boredom.
+\
+\
+As for you...I'm not sure how you landed here. Did you Google me?!
+\
+\
+*That can change if you click on any of the links below. Maybe we'll become friends or enem--
+<br>
+<br>
+
+
+|Let's Chat!|
+|     :---:      |
+| [<img src="/images/face-laugh-beam-regular.svg" alt="My Calendly" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-calendly]|
+
+| LinkedIn | Email | YouTube |
+| :---:         |     :---:      |          :---: |
+|[<img src="/images/linkedin-brands-solid.svg" alt="My LinkedIn" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-linkedin]   | [<img src="/images/envelope-solid.svg" alt="My Email" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-email]| [<img src="/images/youtube-brands-solid.svg" alt="YouTube video" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-yt]  |
+| | ||
+
+
+# **About Me**
+
+I did not compete on "So You Think You Can Dance Canada" nor am I an award-winning author (yet).
+\
+\
+Like the other Melanie Mah's, I also enjoy dancing and wirting -- how uncanny.
+\
+\
+However, unlike the other famous Melanie Mah's, I am not famous. That should change.
+\
+\
+Just kidding. I like my privacy, thanks. A Wikipedia page would be cool though...
+\
+\
+For business inquiries, please contact my manager: Cris Cardashian.
+<br>
+<br>
+
+&#x1F4CD; **Toronto, ON**
+<br>
+<br>
+
+## **Currently, I'm**
+<h3>&#x27A5; <span>Probably singing to Taylor Swift on Spotify.</span></h3>
+### &#x27A5; Re-examining my priorities.
+### &#x27A5; Revisting my budget to see where I can squeeze in $2K Eras <br> &nbsp; &ensp; concert tickets.
+### &#x27A5; Brainstorming how I can snag Eras concert tickets WITHOUT <br> &nbsp; &ensp; spending $2K and getting scammed.
+\
+(Open to ideas or opportunities to be a concert buddy!)
+\
+\
+in no particular order.
+
+
+
+
+
+[mel-calendly]: https://calendly.com/mel-mah
+[mel-linkedin]: https://linkedin.com/in/melanie-mah
+[mel-email]:   mailto:pantry-c@duck.com
+[mel-yt]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+

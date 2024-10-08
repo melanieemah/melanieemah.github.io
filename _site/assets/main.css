@@ -216,6 +216,12 @@ For reference, in the Minima theme gem folder, these are in /_sass/minima.scss
 /*$base-font-weight: 400 !default;*/
 .right { display: table; line-height: 4px; }
 
+h3 span { font-weight: bold; }
+
+h3 { margin-bottom: 0px; }
+
+.multiline { white-space: pre-wrap; line-height: normal; }
+
 /*
 .site-title::after { content: url("../images/cute-watermelon.png"); display: inline-block; position: relative; width: 5px; top: 5px;
 }

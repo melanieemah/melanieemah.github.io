@@ -27,6 +27,19 @@ $postlink-font-family: “Courier” !default;
     line-height: 4px;
 }
 
+h3 span {
+    font-weight: bold;
+}
+
+h3 {
+    margin-bottom: 0px;
+}
+
+.multiline {
+    white-space: pre-wrap;
+    line-height:normal;
+  }
+
 /*
 .site-title::after {
     content: url("../images/cute-watermelon.png");

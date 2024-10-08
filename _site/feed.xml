@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-08T15:49:29-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Mah</title><subtitle>Welcome to my personal website! :)</subtitle><entry><title type="html">Welcome, Internet Stranger*!</title><link href="http://localhost:4000/daily/2024/10/07/welcome.html" rel="alternate" type="text/html" title="Welcome, Internet Stranger*!" /><published>2024-10-07T19:02:25-04:00</published><updated>2024-10-07T19:02:25-04:00</updated><id>http://localhost:4000/daily/2024/10/07/welcome</id><content type="html" xml:base="http://localhost:4000/daily/2024/10/07/welcome.html"><![CDATA[<p>Welcome, Internet Stranger*! 👋
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-08T19:09:30-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Mah</title><subtitle>Welcome to my personal website! :)</subtitle><entry><title type="html">Welcome, Internet Stranger*!</title><link href="http://localhost:4000/daily/2024/10/07/welcome.html" rel="alternate" type="text/html" title="Welcome, Internet Stranger*!" /><published>2024-10-07T19:02:25-04:00</published><updated>2024-10-07T19:02:25-04:00</updated><id>http://localhost:4000/daily/2024/10/07/welcome</id><content type="html" xml:base="http://localhost:4000/daily/2024/10/07/welcome.html"><![CDATA[<p>Welcome, Internet Stranger*! 👋
 <br />
 <br />
 On October 7, I created this website out of pure boredom. 
@@ -14,12 +14,12 @@ As for you…I’m not sure how you landed here. Did you Google me?! 👀
 <table>
   <thead>
     <tr>
-      <th style="text-align: center"><a href="https://calendly.com/mel-mah">Let’s Chat!</a></th>
+      <th style="text-align: center"><a href="https://calendly.com/mel-mah" target="_blank">Let’s Chat!</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><a href="https://calendly.com/mel-mah"><img src="/images/face-laugh-beam-regular.svg" alt="My Calendly" width="50" style="display:block; margin-left:auto; margin-right:auto" /></a></td>
+      <td style="text-align: center"><a href="https://calendly.com/mel-mah" target="_blank"><img src="/images/face-laugh-beam-regular.svg" alt="My Calendly" width="50" style="display:block; margin-left:auto; margin-right:auto" /></a></td>
     </tr>
   </tbody>
 </table>
@@ -27,16 +27,16 @@ As for you…I’m not sure how you landed here. Did you Google me?! 👀
 <table>
   <thead>
     <tr>
-      <th style="text-align: center"><a href="https://linkedin.com/in/melanie-mah">LinkedIn</a></th>
-      <th style="text-align: center"><a href="mailto:pantry-c@duck.com">Email</a></th>
-      <th style="text-align: center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">YouTube</a></th>
+      <th style="text-align: center"><a href="https://linkedin.com/in/melanie-mah" target="_blank">LinkedIn</a></th>
+      <th style="text-align: center"><a href="mailto:gem-carving-mossy@duck.com" target="_blank">Email</a></th>
+      <th style="text-align: center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">YouTube</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><a href="https://linkedin.com/in/melanie-mah"><img src="/images/linkedin-brands-solid.svg" alt="My LinkedIn" width="50" style="display:block; margin-left:auto; margin-right:auto" /></a></td>
-      <td style="text-align: center"><a href="mailto:pantry-c@duck.com"><img src="/images/envelope-solid.svg" alt="My Email" width="50" style="display:block; margin-left:auto; margin-right:auto" /></a></td>
-      <td style="text-align: center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="/images/youtube-brands-solid.svg" alt="YouTube video" width="50" style="display:block; margin-left:auto; margin-right:auto" /></a></td>
+      <td style="text-align: center"><a href="https://linkedin.com/in/melanie-mah" target="_blank"><img src="/images/linkedin-brands-solid.svg" alt="My LinkedIn" width="50" style="display:block; margin-left:auto; margin-right:auto" /></a></td>
+      <td style="text-align: center"><a href="mailto:gem-carving-mossy@duck.com" target="_blank"><img src="/images/envelope-solid.svg" alt="My Email" width="50" style="display:block; margin-left:auto; margin-right:auto" /></a></td>
+      <td style="text-align: center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="/images/youtube-brands-solid.svg" alt="YouTube video" width="50" style="display:block; margin-left:auto; margin-right:auto" /></a></td>
     </tr>
     <tr>
       <td style="text-align: center"> </td>
@@ -60,7 +60,7 @@ However, unlike the other famous Melanie Mah’s, I am not famous. That should c
 Just kidding. I like my privacy, thanks. A Wikipedia page <em>would</em> be cool though…
 <br />
 <br />
-For business inquiries, please contact my manager: <a href="mailto:pantry-c@duck.com">Cris Cardashian</a>.
+For business inquiries, please contact my manager: <a href="mailto:gem-carving-mossy@duck.com" target="_blank">Cris Cardashian</a>.
 <br />
 <br /></p>
 
@@ -69,10 +69,12 @@ For business inquiries, please contact my manager: <a href="mailto:pantry-c@duck
 <br /></p>
 
 <h2 id="currently-im"><strong>Currently, I’m</strong></h2>
-<h3 id="-probably-singing-to-taylor-swift-on-spotify">➥ Probably singing to <strong>Taylor Swift</strong> on Spotify.</h3>
-<h3 id="-re-examining-my-priorities">➥ Re-examining my <strong>priorities</strong>.</h3>
-<h3 id="-balancing-my-budget-to-see-where-i-can-squeeze-in-2k-eras----concert-tickets">➥ Balancing my budget to see where I can squeeze in $2K <strong>Eras <br />     concert</strong> tickets.</h3>
-<h3 id="-brainstorming-how-i-can-snag-eras-concert-tickets-without----spending-2k-and-getting-scammed----open-to-ideas-or-opportunities-to-be-a-concert-buddy">➥ Brainstorming how I can snag Eras concert tickets WITHOUT <br />     spending $2K and getting scammed. <br />     (<strong>Open to ideas or opportunities to be a concert buddy!</strong>)</h3>
-<p><br />
+<div class="multiline">
+<h3> &#x27A5; Probably singing to <span>Taylor Swift</span> on Spotify.</h3>
+<h3> &#x27A5; Re-examining my <span>priorities</span>.</h3>
+<h3> &#x27A5; Balancing my budget to see where I can squeeze in $2K <span>Eras concert</span> tickets. </h3>
+<h3> &#x27A5; Brainstorming how I can snag Eras concert tickets WITHOUT spending $2K and getting scammed. <br />(<span>Open to ideas or opportunities to be a concert buddy!</span>) </h3>
 <br />
-in no particular order.</p>]]></content><author><name></name></author><category term="daily" /><summary type="html"><![CDATA[Welcome, Internet Stranger*! 👋 On October 7, I created this website out of pure boredom. As for you…I’m not sure how you landed here. Did you Google me?! 👀 *That can change if you click on any of the links below. Maybe we’ll become friends or enem–]]></summary></entry></feed>
+<br />
+in no particular order.
+</div>]]></content><author><name></name></author><category term="daily" /><summary type="html"><![CDATA[Welcome, Internet Stranger*! 👋 On October 7, I created this website out of pure boredom. As for you…I’m not sure how you landed here. Did you Google me?! 👀 *That can change if you click on any of the links below. Maybe we’ll become friends or enem–]]></summary></entry></feed>

@@ -3,7 +3,7 @@
   
     <div class="wrapper">
   
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+      <h2 class="footer-heading"><a rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h2>
   
       <div class="footer-col-wrapper">
         <div class="footer-col footer-col-1">
@@ -14,7 +14,7 @@
               {%- endif -%}
               </li>
               {%- if site.email -%}
-              <li><a class="u-email" href="mailto:{{ site.email }}"><img src="/images/envelope-solid.svg" alt="envelope" width="20">&emsp;Email</a></li>
+              <li><a class="u-email" href="mailto:{{ site.email }}" target="_blank"><img src="/images/envelope-solid.svg" alt="envelope" width="20">&emsp;Email</a></li>
               {%- endif -%}
           </ul>
         </div>

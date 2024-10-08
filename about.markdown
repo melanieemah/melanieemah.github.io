@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 > I think, therefore, I am. <br /> 
-<span>- René Descartes and [Billie Eilish](https://www.youtube.com/watch?v=RUQl6YcMalg)</span>
+<span>- René Descartes and [Billie Eilish](https://youtu.be/RUQl6YcMalg?si=k8rERHKvC8nn7rX2&t=37){:target="_blank"}</span>
 
 \
 Can I get back to you on that? 
@@ -24,6 +24,6 @@ Note to future self:
 \
 \
 \
-Website Theme: [Jekyll minima](https://github.com/jekyll/minima)
+Website Theme: [Jekyll minima](https://github.com/jekyll/minima){:target="_blank"}
 \
-Favicon: <a href="https://www.flaticon.com/free-icons/letter-m" title="letter m icons">Letter m icons created by Laisa Islam Ani - Flaticon</a>
+Favicon: <a target="_blank" href="https://www.flaticon.com/free-icons/letter-m" title="letter m icons">Letter m icons created by Laisa Islam Ani - Flaticon</a>

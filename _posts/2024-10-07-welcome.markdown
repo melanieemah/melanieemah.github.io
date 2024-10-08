@@ -19,13 +19,13 @@ As for you...I'm not sure how you landed here. Did you Google me?! &#128064;
 <br>
 
 
-|[Let's Chat!][mel-calendly]|
+|[Let's Chat!][mel-calendly]{:target="_blank"}|
 |     :---:      |
-| [<img src="/images/face-laugh-beam-regular.svg" alt="My Calendly" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-calendly]|
+| [<img src="/images/face-laugh-beam-regular.svg" alt="My Calendly" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-calendly]{:target="_blank"}|
 
-| [LinkedIn][mel-linkedin] | [Email][mel-email] | [YouTube][mel-yt] |
+| [LinkedIn][mel-linkedin]{:target="_blank"} | [Email][mel-email]{:target="_blank"} | [YouTube][mel-yt]{:target="_blank"} |
 | :---:         |     :---:      |          :---: |
-|[<img src="/images/linkedin-brands-solid.svg" alt="My LinkedIn" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-linkedin]   | [<img src="/images/envelope-solid.svg" alt="My Email" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-email]| [<img src="/images/youtube-brands-solid.svg" alt="YouTube video" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-yt]  |
+|[<img src="/images/linkedin-brands-solid.svg" alt="My LinkedIn" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-linkedin]{:target="_blank"}   | [<img src="/images/envelope-solid.svg" alt="My Email" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-email]{:target="_blank"}| [<img src="/images/youtube-brands-solid.svg" alt="YouTube video" width="50">{:style="display:block; margin-left:auto; margin-right:auto"}][mel-yt]{:target="_blank"}  |
 | | ||
 
 
@@ -43,7 +43,7 @@ However, unlike the other famous Melanie Mah's, I am not famous. That should cha
 Just kidding. I like my privacy, thanks. A Wikipedia page *would* be cool though...
 \
 \
-For business inquiries, please contact my manager: [Cris Cardashian][mel-email].
+For business inquiries, please contact my manager: [Cris Cardashian][mel-email]{:target="_blank"}.
 <br>
 <br>
 
@@ -51,15 +51,19 @@ For business inquiries, please contact my manager: [Cris Cardashian][mel-email].
 <br>
 <br>
 
-## **Currently, I'm**
-### &#x27A5; Probably singing to **Taylor Swift** on Spotify.
-### &#x27A5; Re-examining my **priorities**.
-### &#x27A5; Balancing my budget to see where I can squeeze in $2K **Eras <br> &nbsp; &ensp; concert** tickets.
-### &#x27A5; Brainstorming how I can snag Eras concert tickets WITHOUT <br> &nbsp; &ensp; spending $2K and getting scammed. <br> &nbsp; &ensp; (**Open to ideas or opportunities to be a concert buddy!**)
-\
-\
-in no particular order.
 
+## **Currently, I'm**
+<div class="multiline">
+<h3> &#x27A5; Probably singing to <span>Taylor Swift</span> on Spotify.</h3>
+<h3> &#x27A5; Re-examining my <span>priorities</span>.</h3>
+<h3> &#x27A5; Balancing my budget to see where I can squeeze in $2K <span>Eras concert</span> tickets. </h3>
+<h3> &#x27A5; Brainstorming how I can snag Eras concert tickets WITHOUT spending $2K and getting scammed. <br>(<span>Open to ideas or opportunities to be a concert buddy!</span>) </h3>
+<br>
+<br>
+in no particular order.
+</div>
+
+[//]: # <br> &nbsp; &ensp;
 
 
 

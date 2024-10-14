@@ -18,6 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+before_script: 
+  export LC_ALL="C.UTF-8"
+  export LANG="en_US.UTF-8"
+  export LANGUAGE="en_US.UTF-8"
+
 title: Melanie Mah
 email: gem-carving-mossy@duck.com
 description: >- # this means to ignore newlines until "baseurl:"

@@ -29,6 +29,7 @@ email_username:
 #github_username:  melanieemah
 
 # Build settings
+ENV LC_ALL C.UTF-8
 theme: minima
 plugins:
   - jekyll-seo-tag

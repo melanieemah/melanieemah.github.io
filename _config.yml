@@ -40,6 +40,7 @@ LANGUAGE: "en_US.UTF-8"
 theme: minima
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
   #- jekyll-feed
 
 # Exclude from processing.
